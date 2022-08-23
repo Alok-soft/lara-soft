@@ -1,0 +1,2 @@
+# lara-soft
+learn laravel
